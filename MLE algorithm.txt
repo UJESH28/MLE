@@ -1,0 +1,7 @@
+1. define the problem and gather the data
+2.preprocessing the data
+3.split the data into training and testing sets 
+4.choose the machine learning algorithm
+5.train the model
+6.evaluate the model -metrics 
+7.deploy the model - implementing it in the software
